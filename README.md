@@ -31,8 +31,9 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats
 <!--
+## 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bad-bit01&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bad-bit01&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
@@ -44,7 +45,7 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 -->
 ## 📄 Resume
 
-📥 [Download My Resume](https://github.com/bad-bit01) *(Update this link with your actual resume)*
+📥 [Download My Resume](https://github.com/bad-bit01) *(Will be updated shortly)*
 
 ## 🚀 Featured Projects
 
@@ -66,9 +67,7 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 ## 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bad-bit01)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saloni-pathak-a35016166/)
 
 ---
 
