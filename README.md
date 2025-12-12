@@ -1,12 +1,12 @@
 # Hi there, I'm bad-bit01! 👋
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a passionate developer who loves creating innovative solutions and exploring new technologies. I enjoy working on challenging projects that push the boundaries of what's possible with code.
 
 - 🔭 I'm currently working on exciting projects
 - 🌱 I'm constantly learning and expanding my skill set
-- 💬 Ask me about software development, best practices, and tech trends
+- 💬 Ask me about software development and best practices
 - 📫 How to reach me: Check out my GitHub profile
 - ⚡ Fun fact: I love turning complex problems into simple, elegant solutions
 
@@ -15,8 +15,6 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Web Development
@@ -26,11 +24,6 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -39,7 +32,7 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📊 GitHub Stats
-
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bad-bit01&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bad-bit01&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
@@ -48,7 +41,7 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bad-bit01&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </div>
-
+-->
 ## 📄 Resume
 
 📥 [Download My Resume](https://github.com/bad-bit01) *(Update this link with your actual resume)*
