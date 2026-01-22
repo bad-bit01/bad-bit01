@@ -48,21 +48,7 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 📥 [Download My Resume](https://github.com/bad-bit01) *(Will be updated shortly)*
 
 ## 🚀 Featured Projects
-
-### 🔹 Project 1
-**Description:** Brief description of your amazing project  
-**Tech Stack:** React, Node.js, MongoDB  
-**Link:** [View Project](https://github.com/bad-bit01)
-
-### 🔹 Project 2
-**Description:** Another incredible project you've worked on  
-**Tech Stack:** Python, Django, PostgreSQL  
-**Link:** [View Project](https://github.com/bad-bit01)
-
-### 🔹 Project 3
-**Description:** A third project showcasing your skills  
-**Tech Stack:** TypeScript, Express, Docker  
-**Link:** [View Project](https://github.com/bad-bit01)
+(Will be updated shortly)
 
 ## 📫 Connect With Me
 
